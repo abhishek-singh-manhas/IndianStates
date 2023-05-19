@@ -1,0 +1,262 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+   text-align: center;
+   background-color: black;
+   color: white;
+   position: static;
+}
+.andhrapradesh{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(AndhraPradesh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.arunachalpradesh{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(ArunachalPradesh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.assam{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Assam.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.bihar{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Bihar.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.chattisgarh{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Chattisgarh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.goa{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Goa.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.gujarat{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Gujarat.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.haryana{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Haryana.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.hp{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(HimachalPradesh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.jharkhand{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Jharkhand.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.karnataka{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Karnataka.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.kerala{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Kerala.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.mp{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(MadhyaPradesh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.maharashtra{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Maharashtra.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.manipur{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Manipur.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.meghalya{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Meghalya.webp) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.mizoram{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Mizoram.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.nagaland{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Nagaland.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.odisha{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Odisha.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.punjab{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Punjab.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.rajasthan{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Rajasthan.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sikkim{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Sikkim.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.tn{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(TamilNadu.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.telangana{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Telangana.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.tripura{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Tripura.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.up{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(UttarPradesh.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.uttrakhand{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(Uttrakhand.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.wb{
+    width: 100%;
+    height: 100vh;
+
+    background-image:url(WestBengal.jpg) ;
+    background-repeat: repeat-y;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
